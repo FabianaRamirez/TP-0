@@ -1,7 +1,7 @@
 /*
  * Mostrar "Hello World"
  * Fabiana Maria Anahi Ramirez
- * 06/04/2015
+ * 14/04/2015
  */
 
 #include <stdio.h>
